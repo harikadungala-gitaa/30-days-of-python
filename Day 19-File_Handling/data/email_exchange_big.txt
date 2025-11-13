@@ -1,0 +1,15 @@
+From: john.doe@gmail.com
+To: manager@company.com
+CC: support@company.com
+Please contact jane_smith@outlook.com for more details.
+
+From: recruiter@jobsportal.com
+To: candidate123@yahoo.com
+Subject: Interview Invitation
+
+From: admin@university.edu
+To: student@college.edu
+Subject: Semester Results
+
+From: info@python.org
+To: dev_team@opensource.net
